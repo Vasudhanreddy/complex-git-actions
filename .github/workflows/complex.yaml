@@ -1,4 +1,4 @@
-name: complexpipeline
+name: complex pipeline
 on: push
 jobs: 
   job1:
